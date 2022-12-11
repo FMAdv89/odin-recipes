@@ -1,0 +1,98 @@
+body
+{
+    background-image: url("https://img.freepik.com/free-vector/kitchen-interior-design-with-furnitures-decorations_1308-76245.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #e6e3d3;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 14px;
+    display: block;
+}
+
+.title
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #e6e3d3;
+    text-decoration-style: solid;
+}
+
+.reteta
+{
+    border: 5px solid #2f4f7a;
+    width: 40rem;
+    margin: auto auto;
+    background-color: #668bad;
+    border-radius: 40px;
+}
+
+.imagine
+{
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 0px auto;
+    border-radius: 25px;
+}
+
+.categorie
+{
+    color: #e6e3d3;
+    font-size: 20px;
+    text-decoration: underline;
+    margin: 15px 0;
+}
+
+li
+{
+    margin: 6.5px;
+}
+
+.reviewer
+{
+    margin: 15px 6px;
+}
+
+a
+{
+    color: #e6e3d3;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    display: inline-block;
+    margin-top: -10px;
+    margin-bottom: -25px;
+}
+
+a:hover
+{
+    color: #b0aea1;
+}
+
+.back
+{
+    float: left;
+}
+
+.next
+{
+    float: right;
+}
+
+.menu
+{
+    display: inline-block;
+    align: center;
+    margin-top: -20px;
+    margin-left: 140px;
+}
+.menu.buttery
+{
+    margin-left: 290px;
+}
+
+.menu.kentucky
+{
+    margin-left: 125px;
+}
